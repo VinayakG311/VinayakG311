@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinayak Goel</h1>
-<h3 align="center">A passionate developer from India, looking to learn interesting concepts and create amazing applications</h3>
+<h3 align="center">A passionate developer from India, eager to learn interesting concepts and create amazing applications</h3>
 
 - 🔭 I’m currently working on [RMDB](http//github.com/VinayakG311/RMDB) , [RESET](https://github.com/VinayakG311/RESET) , [AURA.](https://github.com/VinayakG311/AURA.) 
 
