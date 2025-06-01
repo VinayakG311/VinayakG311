@@ -12,10 +12,16 @@
 
 ---
 
-## 👋 Hi, I’m Vinayak Goel
-**Final-year Computer Science Engineering student @ IIIT-Delhi (Batch of 2025)**  
-🚀 Software Development Intern at Quadeye, building tools to streamline quant workflows and data processing.  
-I build **high-performance, low-latency systems** and **AI-driven applications** that move data lightning-fast and scale seamlessly.
+<h2 align="center">👋 Hi, I’m Vinayak Goel</h2>
+
+<p align="center">
+  <strong>Final-year Computer Science Engineering student @ IIIT-Delhi (Batch of 2025)</strong><br/>
+  <em>🚀 Software Dev Intern @ Quadeye (Automation Team): building tools to streamline quant workflows & data processing</em>
+</p>
+
+<p align="center">
+  I build <strong>high-performance, low-latency systems</strong> and <strong>AI-driven applications</strong> that move data lightning-fast and scale seamlessly.
+</p>
 
 ---
 
