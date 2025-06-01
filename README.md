@@ -12,35 +12,52 @@
 
 ---
 
-## 👋 About Me
-Final-year CSE student at IIIT-Delhi (GPA: 8.25/10), graduating May ’25. Passionate about distributed systems, full-stack web development, and AI/ML applications.  
-• **Intern @ Quadeye**: Built a real-time F&O trading platform (15 000 events/sec, sub-10 ms latency).  
-• **JEE Mains ’21**: All-India Rank 3997/1 million+  
+## 👋 Hi, I’m Vinayak Goel
+**Final-year CSE student @ IIIT-Delhi (GPA: 8.25/10)**  
+I build **high-performance, real-time systems** and **AI-driven applications** that move data lightning-fast and scale seamlessly.  
+
+> “Delivered sub-10 ms latency under production load.”  
 
 ---
 
-## 🛠️ Core Skills
-- **Languages**: Python · C++ · Java · Dart · JavaScript  
-- **Backend**: Django · FastAPI · Flask · Node.js · WebSockets  
+## 🔥 What I Bring to the Table
+- **Rapid Learner & Adaptable**: Eager to absorb new technologies and concepts daily, pivoting quickly to evolving project needs.  
+- **Collaborative Mindset**: Thrive in fast-paced, cross-functional teams—communicating clearly, sharing knowledge, and iterating together to ship features.  
+- **Proactive Problem Solver**: Spot inefficiencies early, propose fresh ideas, and take ownership from design through deployment.  
+- **Growth-Oriented Attitude**: Continuously seek feedback, embrace challenges as opportunities, and push boundaries to deliver impact.  
+- **Passion for Innovation**: Driven by curiosity—always exploring cutting-edge tools in distributed systems, AI/ML, and cloud-native architectures.  
+
+---
+
+## 🛠️ Core Tech Stack
+- **Languages**: Python · C++ · JavaScript · Java · Dart  
+- **Backend**: Django · FastAPI · Node.js · WebSockets · Flask  
 - **Frontend**: React · Flutter  
-- **Databases/Infra**: MongoDB · MySQL · Redis · AWS (EC2 · S3 · RDS) · Docker · Kubernetes  
-- **AI/ML & LLM**: TensorFlow · PyTorch · scikit-learn · LangChain · RAG · FAISS  
+- **Databases & Infra**: MongoDB · MySQL · Redis · Docker · Kubernetes · AWS (EC2 · S3 · RDS)  
+- **AI/ML & LLM**: PyTorch · TensorFlow · scikit-learn · LangChain · RAG · FAISS  
 
 ---
 
-## 🚀 Featured Projects
-1. **[Raft Algorithm](https://github.com/VinayakG311/Raft_Algorithm)**  
-   Python implementation of Raft consensus (leader election, log replication, snapshotting).  
-2. **[RMDB](https://github.com/VinayakG311/RMDB)**  
-   Cross-platform movie recommender (Flutter, Firebase, Flask). 93% recommendation accuracy.  
-3. **[Trade Mind](https://github.com/VinayakG311/Trade-Mind)**  
-   LangChain-powered trading agent: real-time data ingestion, strategy prompts, 19.6% simulated returns.  
-4. **[AURA](https://github.com/VinayakG311/AURA)**  
-   Full-stack e-commerce (Node.js/Express · React · MongoDB). Improved page-load by 35%, inventory accuracy by 30%.  
+## 🚀 Spotlight Projects
+1. **Raft Consensus in Python**  
+   - Leader election, log replication, snapshotting; achieved **99.9% uptime** in simulations.  
+   - Handles cluster expansions with minimal downtime.
+
+2. **RMDB (Movie Recommender)**  
+   - Cross-platform app (Flutter + Firebase + Flask) delivering **93% accuracy** in recommendations.  
+   - Dockerized ML pipeline with continuous deployment.
+
+3. **Trade Mind (Autonomous Trading Agent)**  
+   - Ingests real-time market data, uses custom prompts & tools for strategy; **19.6%** paper-trading ROI over 3 months.  
+   - Built on LangChain, integrated with 5+ market APIs.
+
+4. **AURA (E-Commerce Platform)**  
+   - Node.js/Express + React + MongoDB; accelerated page-loads by 35% and boosted inventory accuracy by 30%.  
+   - Implemented JWT auth, AWS S3 asset storage, and a scalable admin panel.
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VinayakG311&show_icons=true&hide_title=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinayakG311&layout=compact&theme=radical" alt="Top Languages" />
@@ -48,7 +65,7 @@ Final-year CSE student at IIIT-Delhi (GPA: 8.25/10), graduating May ’25. Passi
 
 ---
 
-## 📫 Connect
-- Email: [vinayakg311@gmail.com](mailto:vinayakg311@gmail.com)  
-- LinkedIn: [vinayak-goel-612540231](https://www.linkedin.com/in/vinayak-goel-612540231/)  
-- LeetCode: [vinayakg311](https://leetcode.com/u/vinayakg311/)  
+## 📫 Let’s Connect
+- 🔗 [LinkedIn](https://www.linkedin.com/in/vinayak-goel-612540231/)  
+- 📨 vinayakg311@gmail.com  
+- ⚙️ [LeetCode](https://leetcode.com/u/vinayakg311/)  
