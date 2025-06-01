@@ -14,7 +14,7 @@
 
 ## 👋 Hi, I’m Vinayak Goel
 **Final-year Computer Science Engineering student @ IIIT-Delhi (Batch of 2025)**  
-🚀 Currently a Software Development Intern at Quadeye, building a real-time F&O trading platform that handles **15 000+ events/sec** with **sub-10 ms latency**.  
+🚀 Software Development Intern at Quadeye, building tools to streamline quant workflows and data processing.  
 I build **high-performance, low-latency systems** and **AI-driven applications** that move data lightning-fast and scale seamlessly.
 
 ---
