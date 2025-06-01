@@ -13,7 +13,7 @@
 ---
 
 ## 👋 Hi, I’m Vinayak Goel
-**Final-year CSE student @ IIIT-Delhi (GPA: 8.25/10)**  
+**Final-year Computer Science Engineering student @ IIIT-Delhi, Batch of 2025**  
 I build **high-performance, real-time systems** and **AI-driven applications** that move data lightning-fast and scale seamlessly.  
 
 ---
