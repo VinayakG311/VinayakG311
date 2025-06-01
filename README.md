@@ -19,11 +19,29 @@ I build **high-performance, real-time systems** and **AI-driven applications** t
 ---
 
 ## 🔥 What I Bring to the Table
-- **Rapid Learner & Adaptable**: Eager to absorb new technologies and concepts daily, pivoting quickly to evolving project needs.  
-- **Collaborative Mindset**: Thrive in fast-paced, cross-functional teams—communicating clearly, sharing knowledge, and iterating together to ship features.  
-- **Proactive Problem Solver**: Spot inefficiencies early, propose fresh ideas, and take ownership from design through deployment.  
-- **Growth-Oriented Attitude**: Continuously seek feedback, embrace challenges as opportunities, and push boundaries to deliver impact.  
-- **Passion for Innovation**: Driven by curiosity—always exploring cutting-edge tools in distributed systems, AI/ML, and cloud-native architectures.  
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Tech-Learning-4B8BBE?style=flat-square&logo=bootstrap&logoColor=white" alt="Always Learning" />
+  <img src="https://img.shields.io/badge/Team-Collaboration-00A86B?style=flat-square&logo=slack&logoColor=white" alt="Team Synergist" />
+  <img src="https://img.shields.io/badge/Efficiency-Optimization-FFC300?style=flat-square&logo=zapier&logoColor=white" alt="Efficiency Whisperer" />
+  <img src="https://img.shields.io/badge/Growth-Mindset-FF5733?style=flat-square&logo=groww&logoColor=white" alt="Relentless Growth Seeker" />
+  <img src="https://img.shields.io/badge/Innovation-Curious-8A2BE2?style=flat-square&logo=vscode&logoColor=white" alt="Innovation Junkie" />
+</p>
+
+- 🚀 **Always Hungry for New Tech**  
+  I dive into emerging tools and languages daily to keep projects ahead of the curve.
+
+- 🤝 **Team Synergist**  
+  I fuel collaboration in fast-paced, cross-functional squads—bridging disciplines to ship cohesive features.
+
+- 🔍 **Efficiency Whisperer**  
+  I sniff out bottlenecks early, craft innovative workarounds, and own solutions from concept to deployment.
+
+- 📈 **Relentless Growth Seeker**  
+  I crave feedback, embrace every challenge as a springboard, and constantly push boundaries for maximum impact.
+
+- 💡 **Innovation Junkie**  
+  I’m driven by curiosity—always tinkering with cutting-edge distributed systems, AI/ML pipelines, and cloud-native architectures.
 
 ---
 
