@@ -85,15 +85,7 @@ I build **high-performance, real-time systems** and **AI-driven applications** t
    – Node.js/Express + React + MongoDB; accelerated page-loads by 35% and boosted inventory accuracy by 30%.  
    – Implemented JWT auth, AWS S3 asset storage, and a scalable admin panel.
 
----
 
-## 📈 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VinayakG311&show_icons=true&hide_title=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinayakG311&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
 
 ## 📫 Let’s Connect
 - 🔗 [LinkedIn](https://www.linkedin.com/in/vinayak-goel-612540231/)  
