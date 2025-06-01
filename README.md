@@ -13,8 +13,9 @@
 ---
 
 ## 👋 Hi, I’m Vinayak Goel
-**Final-year Computer Science Engineering student @ IIIT-Delhi, Batch of 2025**  
-I build **high-performance, real-time systems** and **AI-driven applications** that move data lightning-fast and scale seamlessly.  
+**Final-year Computer Science Engineering student @ IIIT-Delhi (Batch of 2025)**  
+🚀 Currently a Software Development Intern at Quadeye, building a real-time F&O trading platform that handles **15 000+ events/sec** with **sub-10 ms latency**.  
+I build **high-performance, low-latency systems** and **AI-driven applications** that move data lightning-fast and scale seamlessly.
 
 ---
 
