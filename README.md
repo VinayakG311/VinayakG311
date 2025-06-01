@@ -16,8 +16,6 @@
 **Final-year CSE student @ IIIT-Delhi (GPA: 8.25/10)**  
 I build **high-performance, real-time systems** and **AI-driven applications** that move data lightning-fast and scale seamlessly.  
 
-> “Delivered sub-10 ms latency under production load.”  
-
 ---
 
 ## 🔥 What I Bring to the Table
