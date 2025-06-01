@@ -1,9 +1,15 @@
 <!-- BEGIN PROFILE README -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn Badge" />
-  <img src="https://img.shields.io/badge/LeetCode-Solved-orange?style=flat-square&logo=leetcode" alt="LeetCode Badge" />
-  <img src="https://img.shields.io/badge/Email-vinayakg311%40gmail.com-red?style=flat-square&logo=gmail" alt="Email Badge" />
+  <a href="https://www.linkedin.com/in/vinayak-goel-612540231/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn Badge" />
+  </a>
+  <a href="https://leetcode.com/u/vinayakg311/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Solved-orange?style=flat-square&logo=leetcode" alt="LeetCode Badge" />
+  </a>
+  <a href="mailto:vinayakg311@gmail.com">
+    <img src="https://img.shields.io/badge/Email-vinayakg311%40gmail.com-red?style=flat-square&logo=gmail" alt="Email Badge" />
+  </a>
 </p>
 
 ---
