@@ -16,7 +16,7 @@
 
 <p align="center">
   <strong>  Final-year Computer Science Engineering student @ IIIT-Delhi (Batch of 2025)</strong><br/>
-  <em>  🚀 Software Dev Intern @ Quadeye : building tools to streamline quant workflows & data processing</em>
+  <em>  🚀 Software Dev @ Quadeye : building tools to streamline quant workflows & data processing</em>
 </p>
 
 <p align="center">
