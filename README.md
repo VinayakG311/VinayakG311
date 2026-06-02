@@ -15,8 +15,8 @@
 <h2 align="center">👋 Hi, I’m Vinayak Goel</h2>
 
 <p align="center">
-  <strong>  Final-year Computer Science Engineering student @ IIIT-Delhi (Batch of 2025)</strong><br/>
   <em>  🚀 Software Dev @ Quadeye : building tools to streamline quant workflows & data processing</em>
+  <strong>  Graduate Computer Science Engineering student @ IIIT-Delhi (Batch of 2025)</strong><br/>
 </p>
 
 <p align="center">
